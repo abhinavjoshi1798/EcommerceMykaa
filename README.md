@@ -15,7 +15,7 @@ HTML5, CSS3, JS ES6, React, Node, Express, MongoDb, Chakra Ui
 
 
 # 🏷️ Home page
-![image](https://ibb.co/CKMG0HJD)
+![image](https://private-user-images.githubusercontent.com/65169622/426485461-7d350d17-58b1-43a2-a2d0-f62d0373e03d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI4OTk1MjIsIm5iZiI6MTc0Mjg5OTIyMiwicGF0aCI6Ii82NTE2OTYyMi80MjY0ODU0NjEtN2QzNTBkMTctNThiMS00M2EyLWEyZDAtZjYyZDAzNzNlMDNkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI1VDEwNDAyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3Y2I1MTg5NzU4ODBmN2ViOThmNDk2NWY5MjMxZmE0YzZkZmI3ZDcwYzc5OGI2MTNiN2QzZmQ5ZmZlNDM2MDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Qpxsh0lXMUeKQx-1zPNvpqO3tr5Hb2gzzj6WUEdcnbA)
 # 🏷️ Products Page
 ![image](https://user-images.githubusercontent.com/104666876/229416855-2712e6d1-e65f-494f-aa7d-963d67d42d82.png)
 # 🏷️ Details Page
