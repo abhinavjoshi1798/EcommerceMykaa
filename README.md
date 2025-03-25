@@ -10,18 +10,12 @@
 
 ## 🏷️ Tech Stack Used :-
 
-### Frontend
+HTML5, CSS3, JS ES6, React, Node, Express, MongoDb, Chakra Ui
 
-| React                                                                                                                                                                                                                                                                                                                                                        | HTML                                                                                                                           | CSS                                                                                                                            | JavaScript                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| <img width="75px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">  | <img width="75px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"> | <img width="75px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"> | <img width="70px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> |
 
-Deployed Link :- https://mykaa-nine.vercel.app/
-<br/>
-Video Explaination :- https://youtu.be/zUkiyaXgbBU?si=jhhQvwklV1R1DFZG
 
 # 🏷️ Home page
-![image](https://user-images.githubusercontent.com/104666876/229416629-82275a73-e061-44a7-9950-efb33dd7220c.png)
+![image](https://imgur.com/a/JkaQh5k)
 # 🏷️ Products Page
 ![image](https://user-images.githubusercontent.com/104666876/229416855-2712e6d1-e65f-494f-aa7d-963d67d42d82.png)
 # 🏷️ Details Page
