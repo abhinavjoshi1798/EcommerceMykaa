@@ -15,7 +15,7 @@ HTML5, CSS3, JS ES6, React, Node, Express, MongoDb, Chakra Ui
 
 
 # 🏷️ Home page
-![image](https://imgur.com/a/JkaQh5k)
+![image](https://ibb.co/CKMG0HJD)
 # 🏷️ Products Page
 ![image](https://user-images.githubusercontent.com/104666876/229416855-2712e6d1-e65f-494f-aa7d-963d67d42d82.png)
 # 🏷️ Details Page
