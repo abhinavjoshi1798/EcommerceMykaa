@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+*{
+font-family: "Inter";
+}
+
+.product-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  max-width: 300px;
+  height: 100%;
+  transition: transform 0.2s ease-in-out;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
+  font-family: "Inter";
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+}
+
+.product-card-image {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+}
+
+.product-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.product-card-body {
+  padding: 10px;
+}
+
+.product-card-title {
+  font-size: 20px;
+  margin: 0;
+  font-family: "Inter";
+}
+
+.product-card-brand {
+  font-size: 14px;
+  margin: 5px 0;
+  font-family: "Inter";
+}
+
+.product-card-price {
+  font-size: 16px;
+  margin: 5px 0;
+  font-family: "Inter";
+}
+
+.product-card-actions {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.editbutton {
+  background-color: #007bff;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 3px;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.editbutton:hover {
+  background-color: #0062cc;
+}
+
+.button {
+  background-color: #dc3545;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 3px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.button:hover {
+  background-color: #c82333;
+}
